@@ -82,6 +82,7 @@ The Smart Object Dispenser demonstrates how IoT, cloud computing, and embedded s
 Department of Electronics and Communication Engineering
 
 SRM University AP
+
 ---
 
 ## License
