@@ -73,10 +73,15 @@ The Smart Object Dispenser demonstrates how IoT, cloud computing, and embedded s
 
 ## Contributors
 
-**Darapu Mohanth Sai Dinesh Reddy**
+- Darapu Mohanth Sai Dinesh Reddy
+- Rayapati Siva Charan Chowdary
+- Alankara Abhishek
+- Tippireddy Manoj Reddy 
+
+
+Department of Electronics and Communication Engineering
 
 SRM University AP
-
 ---
 
 ## License
